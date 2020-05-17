@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SensorCheck</string>
+    <string name="detail">This is the list of all available sensors inside your phone</string>
+</resources>
